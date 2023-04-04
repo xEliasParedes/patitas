@@ -7,7 +7,7 @@
   font-family: "Poppins", sans-serif;
 }
 body {
-  background: url(/img/fondo-primavera-dibujado-flores_23-2148833619.jpg);
+  background: url(/img/Fondo.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -103,6 +103,65 @@ body {
   transition: height 0.4s;
   height: 0;
 }
+/*------------------------------------------------------*/
+
+
+body{
+  background-image: url(https://i.pinimg.com/736x/37/eb/e5/37ebe5bbbbb758c84d9eaff407009f04.jpg);
+  background-color: #f6c667;
+  background-repeat: no-repeat;
+  background-position: right top;
+}
+#fondoMain{
+  background-color: #e7ad30;
+}
+#producto{
+  width: auto;
+  text-align: center;
+  padding: 15px;
+}
+.imgProducto{
+  max-width: 10%;
+  height: auto;
+}
+#titulo{
+  font-family: 'Red Hat Mono', monospace;
+  font-style: italic;
+  color:#e7ad30;
+ 
+}
+#topbar{
+  background-color: #5b3e05;
+  
+}
+
+#footerLetras{
+  color: white;
+  border-right-width: 10px;
+}
+
+a{
+  color: aliceblue;
+}
+p{
+  font-family: 'Kulim Park', sans-serif;
+  padding: 10px 22px;
+  margin:20px 18px 16px 14px;
+  text-align: justify;
+  font-weight: 400;
+}
+
+.parrafo-normal{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 18px;
+  color: #0000ff;
+}
+
+footer{
+  background-color: #5b3e05;
+  
+}
+
 /*-----------------------------------------------------*/
 .Carrousel{
   width: 50%;
@@ -214,5 +273,65 @@ body {
     height: 0;
     
 }
+
+/*------------------------------------------------------*/
+
+
+body{
+  background-image: url(https://i.pinimg.com/736x/37/eb/e5/37ebe5bbbbb758c84d9eaff407009f04.jpg);
+  background-color: #f6c667;
+  background-repeat: no-repeat;
+  background-position: right top;
+}
+#fondoMain{
+  background-color: #e7ad30;
+}
+#producto{
+  width: auto;
+  text-align: center;
+  padding: 15px;
+}
+.imgProducto{
+  max-width: 10%;
+  height: auto;
+}
+#titulo{
+  font-family: 'Red Hat Mono', monospace;
+  font-style: italic;
+  color:#e7ad30;
+ 
+}
+#topbar{
+  background-color: #5b3e05;
+  
+}
+
+#footerLetras{
+  color: white;
+  border-right-width: 10px;
+}
+
+a{
+  color: aliceblue;
+}
+p{
+  font-family: 'Kulim Park', sans-serif;
+  padding: 10px 22px;
+  margin:20px 18px 16px 14px;
+  text-align: justify;
+  font-weight: 400;
+}
+
+.parrafo-normal{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 18px;
+  color: #0000ff;
+}
+
+footer{
+  background-color: #5b3e05;
+  
+}
+
     
 }
